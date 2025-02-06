@@ -3,3 +3,5 @@
 Структура данных в таблице: user_id, revenue, testgroup
 
 Какой набор лучше?
+
+![](/4_ab_tests/ab_test_2_promos/ab_test_2_promos-1.jpg?raw=true "")
