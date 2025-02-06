@@ -19,3 +19,5 @@
 В каком RFM-сегменте самое маленькое кол-во пользователей?
 
 Какое количество пользователей попало в самый малочисленный сегмент?
+
+![](/3_data_analysis/RFM_for_invoice_dataset/RFM_for_invoice_dataset.jpg?raw=true "")
