@@ -5,3 +5,5 @@
 Задача:
 
 Найти в сверках различающиеся проводки, служащие источником расхождения итога.
+
+![](/2_ad_hoc/python_discrepancies_searcing/python_discrepancies_searcing.jpg?raw=true "")
